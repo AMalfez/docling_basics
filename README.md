@@ -47,7 +47,7 @@ This project is a hands-on playground where I explored:
 ## 🔧 **Installation**
 
 ``` bash
-git clone https://github.com/<your-username>/docling-basics
+git clone https://github.com/AMalfez/docling_basics.git
 cd docling-basics
 
 python -m venv venv
