@@ -1,0 +1,4 @@
+docling
+hf_xet
+openai-whisper
+transformers
